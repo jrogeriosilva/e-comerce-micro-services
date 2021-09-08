@@ -1,9 +1,9 @@
 
 #  Microservices architecture
 Building a project with microservices architecture using Spring Cloud.
-![2021-09-08](https://user-images.githubusercontent.com/15113099/132511714-0bcf1a19-bb66-4fc0-a72d-e41081302adf.png | width=100)
 
-##
+<img src="https://user-images.githubusercontent.com/15113099/132511714-0bcf1a19-bb66-4fc0-a72d-e41081302adf.png" width="500"/>
+
 ### Microservices
 * Config Server (Requesting configuration Files [Here](https://github.com/jrogeriosilva/micro-services-config))
 * Gateway
