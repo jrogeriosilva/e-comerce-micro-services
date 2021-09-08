@@ -22,11 +22,6 @@ https://docs.docker.com/compose/install/
 docker-compose up -d
 ```
 
-## Redis and Elasticsearch
-
-
-
-
 ### Used Tecnologies
 * Docker 19.3.15
 * Docker compose 1.29.2
