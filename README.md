@@ -1,7 +1,7 @@
 
 #  Microservices architecture
 Building a project with microservices architecture using Spring Cloud.
-![2021-09-08](https://user-images.githubusercontent.com/15113099/132511714-0bcf1a19-bb66-4fc0-a72d-e41081302adf.png)
+![2021-09-08](https://user-images.githubusercontent.com/15113099/132511714-0bcf1a19-bb66-4fc0-a72d-e41081302adf.png | width=100)
 
 ##
 ### Microservices
@@ -9,6 +9,16 @@ Building a project with microservices architecture using Spring Cloud.
 * Gateway
 * product-catalog
 * service discovery
+
+
+### Used Tecnologies
+* Docker
+* Java OpenJDK
+* Gradle
+* Spring Boot
+* ElasticSearch
+* Redis
+
 
 ## Preparing the Development environment
 
@@ -22,13 +32,6 @@ https://docs.docker.com/compose/install/
 ```console
 docker-compose up -d
 ```
-
-### Used Tecnologies
-* Docker 19.3.15
-* Docker compose 1.29.2
-* Java OpenJDK 16
-* Gradle
-* Spring Boot 2.5.2
 
 
 ### Health
